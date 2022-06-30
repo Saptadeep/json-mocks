@@ -1,0 +1,259 @@
+{
+  "predictions": [
+    {
+      "description": "Jal Board Office, Arun Vihar, Sector 37, Noida, Uttar Pradesh, India",
+      "matched_substrings": [
+        {
+          "length": 9,
+          "offset": 0
+        }
+      ],
+      "place_id": "ChIJ-ZsmRrblDDkRE9YefwN1d9I",
+      "reference": "ChIJ-ZsmRrblDDkRE9YefwN1d9I",
+      "structured_formatting": {
+        "main_text": "Jal Board Office",
+        "main_text_matched_substrings": [
+          {
+            "length": 9,
+            "offset": 0
+          }
+        ],
+        "secondary_text": "Arun Vihar, Sector 37, Noida, Uttar Pradesh, India"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Jal Board Office"
+        },
+        {
+          "offset": 18,
+          "value": "Arun Vihar"
+        },
+        {
+          "offset": 30,
+          "value": "Sector 37"
+        },
+        {
+          "offset": 41,
+          "value": "Noida"
+        },
+        {
+          "offset": 48,
+          "value": "Uttar Pradesh"
+        },
+        {
+          "offset": 63,
+          "value": "India"
+        }
+      ],
+      "types": [
+        "local_government_office",
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "description": "Jal Board Office, Teacher Colony, Mehrauli, New Delhi, Delhi, India",
+      "matched_substrings": [
+        {
+          "length": 9,
+          "offset": 0
+        }
+      ],
+      "place_id": "ChIJfV5nrnQeDTkRrkO41FblZ6k",
+      "reference": "ChIJfV5nrnQeDTkRrkO41FblZ6k",
+      "structured_formatting": {
+        "main_text": "Jal Board Office",
+        "main_text_matched_substrings": [
+          {
+            "length": 9,
+            "offset": 0
+          }
+        ],
+        "secondary_text": "Teacher Colony, Mehrauli, New Delhi, Delhi, India"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Jal Board Office"
+        },
+        {
+          "offset": 18,
+          "value": "Teacher Colony"
+        },
+        {
+          "offset": 34,
+          "value": "Mehrauli"
+        },
+        {
+          "offset": 44,
+          "value": "New Delhi"
+        },
+        {
+          "offset": 55,
+          "value": "Delhi"
+        },
+        {
+          "offset": 62,
+          "value": "India"
+        }
+      ],
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "description": "Jal Board Office, Sector 39 Block B Road, Sector 39, Noida, Uttar Pradesh, India",
+      "matched_substrings": [
+        {
+          "length": 9,
+          "offset": 0
+        }
+      ],
+      "place_id": "ChIJO-yqGpXlDDkRZUZwz5kjD88",
+      "reference": "ChIJO-yqGpXlDDkRZUZwz5kjD88",
+      "structured_formatting": {
+        "main_text": "Jal Board Office",
+        "main_text_matched_substrings": [
+          {
+            "length": 9,
+            "offset": 0
+          }
+        ],
+        "secondary_text": "Sector 39 Block B Road, Sector 39, Noida, Uttar Pradesh, India"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Jal Board Office"
+        },
+        {
+          "offset": 18,
+          "value": "Sector 39 Block B Road"
+        },
+        {
+          "offset": 42,
+          "value": "Sector 39"
+        },
+        {
+          "offset": 53,
+          "value": "Noida"
+        },
+        {
+          "offset": 60,
+          "value": "Uttar Pradesh"
+        },
+        {
+          "offset": 75,
+          "value": "India"
+        }
+      ],
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    },
+    {
+      "description": "Jal Board Colony, Pitam Pura, Delhi, India",
+      "matched_substrings": [
+        {
+          "length": 9,
+          "offset": 0
+        }
+      ],
+      "place_id": "ChIJd1Z7vnkBDTkRNAXQibnBfPk",
+      "reference": "ChIJd1Z7vnkBDTkRNAXQibnBfPk",
+      "structured_formatting": {
+        "main_text": "Jal Board Colony, Pitam Pura",
+        "main_text_matched_substrings": [
+          {
+            "length": 9,
+            "offset": 0
+          }
+        ],
+        "secondary_text": "Delhi, India"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Jal Board Colony"
+        },
+        {
+          "offset": 18,
+          "value": "Pitam Pura"
+        },
+        {
+          "offset": 30,
+          "value": "Delhi"
+        },
+        {
+          "offset": 37,
+          "value": "India"
+        }
+      ],
+      "types": [
+        "sublocality_level_2",
+        "sublocality",
+        "political",
+        "geocode"
+      ]
+    },
+    {
+      "description": "Jal Board Result, Block E 1, Jhandewalan Extension, Karol Bagh, New Delhi, Delhi, India",
+      "matched_substrings": [
+        {
+          "length": 9,
+          "offset": 0
+        }
+      ],
+      "place_id": "ChIJ____P2f9DDkRTfG3b-K6AIg",
+      "reference": "ChIJ____P2f9DDkRTfG3b-K6AIg",
+      "structured_formatting": {
+        "main_text": "Jal Board Result",
+        "main_text_matched_substrings": [
+          {
+            "length": 9,
+            "offset": 0
+          }
+        ],
+        "secondary_text": "Block E 1, Jhandewalan Extension, Karol Bagh, New Delhi, Delhi, India"
+      },
+      "terms": [
+        {
+          "offset": 0,
+          "value": "Jal Board Result"
+        },
+        {
+          "offset": 18,
+          "value": "Block E 1"
+        },
+        {
+          "offset": 29,
+          "value": "Jhandewalan Extension"
+        },
+        {
+          "offset": 52,
+          "value": "Karol Bagh"
+        },
+        {
+          "offset": 64,
+          "value": "New Delhi"
+        },
+        {
+          "offset": 75,
+          "value": "Delhi"
+        },
+        {
+          "offset": 82,
+          "value": "India"
+        }
+      ],
+      "types": [
+        "point_of_interest",
+        "establishment"
+      ]
+    }
+  ],
+  "status": "OK"
+}
