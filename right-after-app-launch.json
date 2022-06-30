@@ -1,0 +1,49 @@
+{
+  "plus_code": {
+    "compound_code": "G4MW+9PQ New Delhi, Delhi, India",
+    "global_code": "7JWVG4MW+9PQ"
+  },
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "1336",
+          "short_name": "1336",
+          "types": [
+            "premise"
+          ]
+        },
+        {
+          "long_name": "Pocket 1",
+          "short_name": "Pocket 1",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_3"
+          ]
+        },
+        {
+          "long_name": "Sector C",
+          "short_name": "Sector C",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_2"
+          ]
+        },
+        {
+          "long_name": "Vasant Kunj",
+          "short_name": "Vasant Kunj",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "New Delhi"
+        }
+      ]
+    }
+  ]
+}
