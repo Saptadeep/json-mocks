@@ -1,0 +1,52 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      {
+        "long_name": "G6J3+WVW",
+        "short_name": "G6J3+WVW",
+        "types": [
+          "plus_code"
+        ]
+      },
+      {
+        "long_name": "Basant Kaur Marg",
+        "short_name": "Basant Kaur Marg",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Block A",
+        "short_name": "Block A",
+        "types": [
+          "sublocality_level_3",
+          "sublocality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Shivalik Colony",
+        "short_name": "Shivalik Colony",
+        "types": [
+          "sublocality_level_2",
+          "sublocality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Malviya Nagar",
+        "short_name": "Malviya Nagar",
+        "types": [
+          "sublocality_level_1",
+          "sublocality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "New Delhi",
+        "short_name": "New Delhi"
+      }
+    ]
+  }
+}
