@@ -1,52 +1,180 @@
 {
-  "html_attributions": [],
-  "result": {
-    "address_components": [
-      {
-        "long_name": "G6J3+WVW",
-        "short_name": "G6J3+WVW",
-        "types": [
-          "plus_code"
-        ]
-      },
-      {
-        "long_name": "Basant Kaur Marg",
-        "short_name": "Basant Kaur Marg",
-        "types": [
-          "route"
-        ]
-      },
-      {
-        "long_name": "Block A",
-        "short_name": "Block A",
-        "types": [
-          "sublocality_level_3",
-          "sublocality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "Shivalik Colony",
-        "short_name": "Shivalik Colony",
-        "types": [
-          "sublocality_level_2",
-          "sublocality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "Malviya Nagar",
-        "short_name": "Malviya Nagar",
-        "types": [
-          "sublocality_level_1",
-          "sublocality",
-          "political"
-        ]
-      },
-      {
-        "long_name": "New Delhi",
-        "short_name": "New Delhi"
-      }
-    ]
-  }
+"html_attributions": [],
+"result": {
+"address_components": [
+{
+"long_name": "G6J3+WVW",
+"short_name": "G6J3+WVW",
+"types": [
+"plus_code"
+]
+},
+{
+"long_name": "Basant Kaur Marg",
+"short_name": "Basant Kaur Marg",
+"types": [
+"route"
+]
+},
+{
+"long_name": "Block A",
+"short_name": "Block A",
+"types": [
+"sublocality_level_3",
+"sublocality",
+"political"
+]
+},
+{
+"long_name": "Shivalik Colony",
+"short_name": "Shivalik Colony",
+"types": [
+"sublocality_level_2",
+"sublocality",
+"political"
+]
+},
+{
+"long_name": "Malviya Nagar",
+"short_name": "Malviya Nagar",
+"types": [
+"sublocality_level_1",
+"sublocality",
+"political"
+]
+},
+{
+"long_name": "New Delhi",
+"short_name": "New Delhi",
+"types": [
+"locality",
+"political"
+]
+},
+{
+"long_name": "South Delhi",
+"short_name": "South Delhi",
+"types": [
+"administrative_area_level_2",
+"political"
+]
+},
+{
+"long_name": "Delhi",
+"short_name": "DL",
+"types": [
+"administrative_area_level_1",
+"political"
+]
+},
+{
+"long_name": "India",
+"short_name": "IN",
+"types": [
+"country",
+"political"
+]
+},
+{
+"long_name": "110017",
+"short_name": "110017",
+"types": [
+"postal_code"
+]
+}
+],
+"adr_address": "Delhi Jal Board UGR &amp; Booster Pumping Station,, G6J3+WVW, <span class="street-address">Basant Kaur Marg</span>, <span class="extended-address">Block A, Shivalik Colony, Malviya Nagar</span>, <span class="locality">New Delhi</span>, <span class="region">Delhi</span> <span class="postal-code">110017</span>, <span class="country-name">India</span>",
+"business_status": "OPERATIONAL",
+"formatted_address": "Delhi Jal Board UGR & Booster Pumping Station,, G6J3+WVW, Basant Kaur Marg, Block A, Shivalik Colony, Malviya Nagar, New Delhi, Delhi 110017, India",
+"geometry": {
+"location": {
+"lat": 28.5323744,
+"lng": 77.2046956
+},
+"viewport": {
+"northeast": {
+"lat": 28.5337743302915,
+"lng": 77.20602738029149
+},
+"southwest": {
+"lat": 28.5310763697085,
+"lng": 77.20332941970848
+}
+}
+},
+"icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+"icon_background_color": "#7B9EB0",
+"icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+"name": "MNWS-Delhi Jal Board",
+"photos": [
+{
+"height": 2261,
+"html_attributions": [
+"<a href="https://maps.google.com/maps/contrib/107567522241927159177">Bhagwat Singh Bisht</a>"
+],
+"photo_reference": "Aap_uEDf1Rl6nTGrlXq7kbg8jieXBRFvYLhQHRdx0mjxNDK5onIsKg236zZjbwH-nDnrz1e6wDIJooH-2tTo8pgjQ7nE2KUI6o9_0k6FOGQFHdfcuFtS76dblQre9XXT53_YrQ9vEMzrQwZhgexmsvvWlTWWmKnkbBnaC7wPDi06R5gH9WKa",
+"width": 2448
+}
+],
+"place_id": "ChIJccUU2wLiDDkRvzJjw-R6l34",
+"rating": 4.6,
+"reference": "ChIJccUU2wLiDDkRvzJjw-R6l34",
+"reviews": [
+{
+"author_name": "shyam kushwaha",
+"author_url": "https://www.google.com/maps/contrib/110485418579708178507/reviews",
+"language": "en",
+"profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GhMX54i48l_W0kA0F-f32NN7P7tcZnefGnAUWljgQ0=s128-c0x00000000-cc-rp-mo-ba2",
+"rating": 5,
+"relative_time_description": "a year ago",
+"text": "Will help to resolve your problems",
+"time": 1599273767
+},
+{
+"author_name": "Rajat Pardal",
+"author_url": "https://www.google.com/maps/contrib/100787776435320320719/reviews",
+"profile_photo_url": "https://lh3.googleusercontent.com/a/AATXAJy1wPUk8X5xlrypZvcKW6_2Kq0rzh2iwuWnJsxB=s128-c0x00000000-cc-rp-mo-ba2",
+"rating": 5,
+"relative_time_description": "4 years ago",
+"text": "",
+"time": 1505840410
+},
+{
+"author_name": "vikas gupta",
+"author_url": "https://www.google.com/maps/contrib/115471271692203611073/reviews",
+"profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14Ghx9LY1fNIxiQubsxJdQ-0Zmpskz9SKMgjyoK5yUvc=s128-c0x00000000-cc-rp-mo",
+"rating": 4,
+"relative_time_description": "4 years ago",
+"text": "",
+"time": 1516175101
+},
+{
+"author_name": "Ajay Kumar",
+"author_url": "https://www.google.com/maps/contrib/116002542921755034760/reviews",
+"profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GjKOKcTlI2hktuBQDNd2iXqwf_JRKHY-MOJ1M-K=s128-c0x00000000-cc-rp-mo",
+"rating": 4,
+"relative_time_description": "2 years ago",
+"text": "",
+"time": 1586626897
+},
+{
+"author_name": "sanjeev kumar",
+"author_url": "https://www.google.com/maps/contrib/110600226254625615203/reviews",
+"profile_photo_url": "https://lh3.googleusercontent.com/a-/AOh14GgeyHA5Wlnc2KLpdxxDYo4rshzZdbp8c9Gt-Grh=s128-c0x00000000-cc-rp-mo-ba4",
+"rating": 5,
+"relative_time_description": "2 years ago",
+"text": "",
+"time": 1565160208
+}
+],
+"types": [
+"point_of_interest",
+"establishment"
+],
+"url": "https://maps.google.com/?cid=9121894693211419327",
+"user_ratings_total": 5,
+"utc_offset": 330,
+"vicinity": "G6J3+WVW, Delhi Jal Board UGR & Booster Pumping Station,, Basant Kaur Marg, Shivalik Colony, Malviya Nagar, New Delhi"
+},
+"status": "OK"
 }
