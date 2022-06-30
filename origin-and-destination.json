@@ -1,0 +1,48 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJHwb8A28dDTkRmhu8viEKwyM",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJDSs83QLiDDkRtpNNbAoVo2g",
+      "types": [
+        "establishment",
+        "point_of_interest",
+        "transit_station"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 28.5595788,
+          "lng": 77.21205359999999
+        },
+        "southwest": {
+          "lat": 28.5295212,
+          "lng": 77.1462368
+        }
+      },
+      "copyrights": "Map data ©2022",
+      "legs": [
+        {
+          "distance": {
+            "text": "10.7 km",
+            "value": 10672
+          },
+          "duration": {
+            "text": "24 mins",
+            "value": 1460
+          },
+          "end_address": "Aur"
+        }
+      ]
+    }
+  ]
+}
