@@ -1,48 +1,495 @@
 {
-  "geocoded_waypoints": [
-    {
-      "geocoder_status": "OK",
-      "place_id": "ChIJHwb8A28dDTkRmhu8viEKwyM",
-      "types": [
-        "street_address"
-      ]
-    },
-    {
-      "geocoder_status": "OK",
-      "place_id": "ChIJDSs83QLiDDkRtpNNbAoVo2g",
-      "types": [
-        "establishment",
-        "point_of_interest",
-        "transit_station"
-      ]
-    }
-  ],
-  "routes": [
-    {
-      "bounds": {
-        "northeast": {
-          "lat": 28.5595788,
-          "lng": 77.21205359999999
-        },
-        "southwest": {
-          "lat": 28.5295212,
-          "lng": 77.1462368
-        }
-      },
-      "copyrights": "Map data ©2022",
-      "legs": [
-        {
-          "distance": {
-            "text": "10.7 km",
-            "value": 10672
-          },
-          "duration": {
-            "text": "24 mins",
-            "value": 1460
-          },
-          "end_address": "Aur"
-        }
-      ]
-    }
-  ]
+"geocoded_waypoints": [
+{
+"geocoder_status": "OK",
+"place_id": "ChIJHwb8A28dDTkRmhu8viEKwyM",
+"types": [
+"street_address"
+]
+},
+{
+"geocoder_status": "OK",
+"place_id": "ChIJDSs83QLiDDkRtpNNbAoVo2g",
+"types": [
+"establishment",
+"point_of_interest",
+"transit_station"
+]
+}
+],
+"routes": [
+{
+"bounds": {
+"northeast": {
+"lat": 28.5595788,
+"lng": 77.21205359999999
+},
+"southwest": {
+"lat": 28.5295212,
+"lng": 77.1462368
+}
+},
+"copyrights": "Map data ©2022",
+"legs": [
+{
+"distance": {
+"text": "10.7 km",
+"value": 10672
+},
+"duration": {
+"text": "24 mins",
+"value": 1460
+},
+"end_address": "Aurobindo College, Nager, Block A, Shivalik Colony, Malviya Nagar, New Delhi, Delhi 110017, India",
+"end_location": {
+"lat": 28.5324763,
+"lng": 77.20466119999999
+},
+"start_address": "1336, Pocket 1, Sector C, Vasant Kunj, New Delhi, Delhi 110070, India",
+"start_location": {
+"lat": 28.5333635,
+"lng": 77.1468155
+},
+"steps": [
+{
+"distance": {
+"text": "38 m",
+"value": 38
+},
+"duration": {
+"text": "1 min",
+"value": 10
+},
+"end_location": {
+"lat": 28.5335343,
+"lng": 77.1464843
+},
+"html_instructions": "Head <b>north-west</b>",
+"polyline": {
+"points": "o|cmDsvzuMa@bA"
+},
+"start_location": {
+"lat": 28.5333635,
+"lng": 77.1468155
+},
+"travel_mode": "DRIVING"
+},
+{
+"distance": {
+"text": "0.2 km",
+"value": 242
+},
+"duration": {
+"text": "2 mins",
+"value": 90
+},
+"end_location": {
+"lat": 28.5322583,
+"lng": 77.1479665
+},
+"html_instructions": "Turn <b>left</b>",
+"maneuver": "turn-left",
+"polyline": {
+"points": "q}cmDotzuMB@NJTPNN`BkD~AiD@C"
+},
+"start_location": {
+"lat": 28.5335343,
+"lng": 77.1464843
+},
+"travel_mode": "DRIVING"
+},
+{
+"distance": {
+"text": "0.4 km",
+"value": 391
+},
+"duration": {
+"text": "2 mins",
+"value": 102
+},
+"end_location": {
+"lat": 28.5295212,
+"lng": 77.1481783
+},
+"html_instructions": "Turn <b>right</b> at the 1st cross street",
+"maneuver": "turn-right",
+"polyline": {
+"points": "sucmDy}zuMv@j@r@f@l@`@HFp@\BB|@n@NRx@w@JMl@s@fCsC"
+},
+"start_location": {
+"lat": 28.5322583,
+"lng": 77.1479665
+},
+"travel_mode": "DRIVING"
+},
+{
+"distance": {
+"text": "1.5 km",
+"value": 1505
+},
+"duration": {
+"text": "3 mins",
+"value": 191
+},
+"end_location": {
+"lat": 28.5408429,
+"lng": 77.15632719999999
+},
+"html_instructions": "Turn <b>left</b> onto <b>Nelson Mandela Marg</b><div style="font-size:0.9em">Pass by Sri Guru Singh Sabha (on the left in 300&nbsp;m)</div>",
+"maneuver": "turn-left",
+"polyline": {
+"points": "odcmDc_{uM?g@GO]c@}@k@eFeD]SEEuBqA{A_AcBkAaBiAMI_BmAIGy@i@y@g@MKkA{@IEWSeDwBu@g@_@W[Oa@UYM]OuCu@oBo@a@YyAeAwAeAOIi@c@}@k@{AaASQ_@UUM"
+},
+"start_location": {
+"lat": 28.5295212,
+"lng": 77.1481783
+},
+"travel_mode": "DRIVING"
+},
+{
+"distance": {
+"text": "0.5 km",
+"value": 496
+},
+"duration": {
+"text": "1 min",
+"value": 44
+},
+"end_location": {
+"lat": 28.544583,
+"lng": 77.15909890000002
+},
+"html_instructions": "Keep <b>left</b> to stay on <b>Nelson Mandela Marg</b>",
+"maneuver": "keep-left",
+"polyline": {
+"points": "gkemDar|uM_DsBaEuCSOuBwAoD}BoAy@"
+},
+"start_location": {
+"lat": 28.5408429,
+"lng": 77.15632719999999
+},
+"travel_mode": "DRIVING"
+},
+{
+"distance": {
+"text": "1.1 km",
+"value": 1135
+},
+"duration": {
+"text": "2 mins",
+"value": 110
+},
+"end_location": {
+"lat": 28.55299,
+"lng": 77.16554020000001
+},
+"html_instructions": "Continue straight to stay on <b>Nelson Mandela Marg</b>",
+"maneuver": "straight",
+"polyline": {
+"points": "sbfmDkc}uMaEmCaA}@e@i@s@w@kBiC[[OKyDqC}AcAmAy@kBqAaDqBqEwCq@_@cBu@eCw@YMGEGGGGGI"
+},
+"start_location": {
+"lat": 28.544583,
+"lng": 77.15909890000002
+},
+"travel_mode": "DRIVING"
+},
+{
+"distance": {
+"text": "0.9 km",
+"value": 937
+},
+"duration": {
+"text": "2 mins",
+"value": 149
+},
+"end_location": {
+"lat": 28.5593918,
+"lng": 77.17099780000001
+},
+"html_instructions": "Slight <b>right</b> to stay on <b>Nelson Mandela Marg</b>",
+"maneuver": "turn-slight-right",
+"polyline": {
+"points": "ewgmDsk~uMAG@GBO@Q?OAGAIKGSOOKUKIEKCSE_@E_ACs@G_COa@GICGCGCg@c@m@q@kAmAmAsAoBuBSSg@e@OSIIOOKKg@e@gAmAQSi@o@aDwDa@g@"
+},
+"start_location": {
+"lat": 28.55299,
+"lng": 77.16554020000001
+},
+"travel_mode": "DRIVING"
+},
+{
+"distance": {
+"text": "0.6 km",
+"value": 641
+},
+"duration": {
+"text": "2 mins",
+"value": 96
+},
+"end_location": {
+"lat": 28.5559668,
+"lng": 77.17591159999999
+},
+"html_instructions": "Turn <b>right</b> at <b>Palam Marg</b>",
+"maneuver": "turn-right",
+"polyline": {
+"points": "e_imDwm_vMMM?ACAACEE?AAACCEERW\a@XWfAoAJKVWvBcDNSLSNSb@m@DGbA{Ab@s@|@wA`@q@Vc@P]Tc@PYf@q@@ADA"
+},
+"start_location": {
+"lat": 28.5593918,
+"lng": 77.17099780000001
+},
+"travel_mode": "DRIVING"
+},
+{
+"distance": {
+"text": "0.4 km",
+"value": 443
+},
+"duration": {
+"text": "1 min",
+"value": 42
+},
+"end_location": {
+"lat": 28.5535814,
+"lng": 77.1795384
+},
+"html_instructions": "Continue onto <b>Olof Palme Marg</b><div style="font-size:0.9em">Pass by ICICI Bank (on the left)</div>",
+"polyline": {
+"points": "yihmDml`vMNU@ChAqBT_@Ra@zAkCTa@jBcDFKpBiD"
+},
+"start_location": {
+"lat": 28.5559668,
+"lng": 77.17591159999999
+},
+"travel_mode": "DRIVING"
+},
+{
+"distance": {
+"text": "1.0 km",
+"value": 1004
+},
+"duration": {
+"text": "1 min",
+"value": 70
+},
+"end_location": {
+"lat": 28.5488528,
+"lng": 77.1882175
+},
+"html_instructions": "Keep <b>right</b> to continue on <b>IIT Flyover</b>/<wbr/><b>Olof Palme Marg</b>",
+"maneuver": "keep-right",
+"polyline": {
+"points": "{zgmDccavMT]l@gApCuE\i@`AaBNUd@s@PYP[b@{@f@_Aj@cAj@aAN[Vg@DIRa@`B{ExDwMNg@Nq@"
+},
+"start_location": {
+"lat": 28.5535814,
+"lng": 77.1795384
+},
+"travel_mode": "DRIVING"
+},
+{
+"distance": {
+"text": "1.4 km",
+"value": 1442
+},
+"duration": {
+"text": "2 mins",
+"value": 134
+},
+"end_location": {
+"lat": 28.5444716,
+"lng": 77.2020756
+},
+"html_instructions": "Continue onto <b>Gamal Abdel Nasser Marg</b>/<wbr/><b>Outer Ring Rd</b><div style="font-size:0.9em">Pass by Hotel Shyama International (on the left in 1.0&nbsp;km)</div>",
+"polyline": {
+"points": "i}fmDkybvMf@_B\gAJ_@BMFU^qA\mADMVaAhD}MdAgEv@_Dh@}CXgBN}@He@PsA\{B@IBK^qBLs@b@eDL{@RyAZiBR}@Rs@H[@GDK?ABIf@gB"
+},
+"start_location": {
+"lat": 28.5488528,
+"lng": 77.1882175
+},
+"travel_mode": "DRIVING"
+},
+{
+"distance": {
+"text": "0.2 km",
+"value": 234
+},
+"duration": {
+"text": "1 min",
+"value": 18
+},
+"end_location": {
+"lat": 28.5438432,
+"lng": 77.2043439
+},
+"html_instructions": "Continue onto <b>IIT Delhi Main Rd</b>/<wbr/><b>IIT Flyover</b>",
+"polyline": {
+"points": "}afmD_pevMx@uCFUPu@H[N{@HmAD{@"
+},
+"start_location": {
+"lat": 28.5444716,
+"lng": 77.2020756
+},
+"travel_mode": "DRIVING"
+},
+{
+"distance": {
+"text": "0.1 km",
+"value": 142
+},
+"duration": {
+"text": "1 min",
+"value": 14
+},
+"end_location": {
+"lat": 28.543783,
+"lng": 77.20579889999999
+},
+"html_instructions": "Continue onto <b>Gamal Abdel Nasser Marg</b>/<wbr/><b>Outer Ring Rd</b>",
+"polyline": {
+"points": "_~emDc~evM@c@?S@}@BgB?M@U@a@"
+},
+"start_location": {
+"lat": 28.5438432,
+"lng": 77.2043439
+},
+"travel_mode": "DRIVING"
+},
+{
+"distance": {
+"text": "0.3 km",
+"value": 290
+},
+"duration": {
+"text": "1 min",
+"value": 58
+},
+"end_location": {
+"lat": 28.5436723,
+"lng": 77.2087506
+},
+"html_instructions": "Slight <b>left</b> onto <b>Panchsheel Marg</b><div style="font-size:0.9em">Pass by Laxman Public School (on the left)</div>",
+"maneuver": "turn-slight-left",
+"polyline": {
+"points": "s}emDggfvMG_@?CAM@g@?_@@u@B_ALkDDs@?_A?[Ba@"
+},
+"start_location": {
+"lat": 28.543783,
+"lng": 77.20579889999999
+},
+"travel_mode": "DRIVING"
+},
+{
+"distance": {
+"text": "0.5 km",
+"value": 452
+},
+"duration": {
+"text": "2 mins",
+"value": 108
+},
+"end_location": {
+"lat": 28.5410373,
+"lng": 77.21173879999999
+},
+"html_instructions": "Turn <b>right</b> onto <b>Maharishi Dayanand Marg</b>/<wbr/><b>Shivalik Rd</b>",
+"maneuver": "turn-right",
+"polyline": {
+"points": "}|emDuyfvM@a@N?@?B?B?F??ADABAJGHKd@m@NMJKPMTMLEVQn@Qp@URKv@YNIHKPOBCBADAHODIDODQDUB_@BWB_@D[BO@IVaA"
+},
+"start_location": {
+"lat": 28.5436723,
+"lng": 77.2087506
+},
+"travel_mode": "DRIVING"
+},
+{
+"distance": {
+"text": "1.2 km",
+"value": 1223
+},
+"duration": {
+"text": "4 mins",
+"value": 211
+},
+"end_location": {
+"lat": 28.5327227,
+"lng": 77.2050853
+},
+"html_instructions": "Turn <b>right</b> onto <b>Basant Kaur Marg</b>/<wbr/><b>Geetanjali Marg</b>/<wbr/><b>Shivalik Rd</b><div style="font-size:0.9em">Pass by Pink Closet (on the left in 650&nbsp;m)</div>",
+"maneuver": "turn-right",
+"polyline": {
+"points": "olemDklgvM@E@ERH\Fz@LVA`@Gh@Qn@Uv@S@?h@ILAJ?H?F?D@B@D@DBJHn@h@@@RPh@b@zA`BFJz@|@@BpArAVVRTlAhAZZNLNPXVb@l@DHr@p@DDlAtA@@\\BBb@d@TVHF|@|@t@n@LJPNFF|@~@BDh@t@JN^v@f@pADPV~@"
+},
+"start_location": {
+"lat": 28.5410373,
+"lng": 77.21173879999999
+},
+"travel_mode": "DRIVING"
+},
+{
+"distance": {
+"text": "13 m",
+"value": 13
+},
+"duration": {
+"text": "1 min",
+"value": 4
+},
+"end_location": {
+"lat": 28.5326088,
+"lng": 77.2050884
+},
+"html_instructions": "Turn <b>left</b>",
+"maneuver": "turn-left",
+"polyline": {
+"points": "oxcmDybfvMT?"
+},
+"start_location": {
+"lat": 28.5327227,
+"lng": 77.2050853
+},
+"travel_mode": "DRIVING"
+},
+{
+"distance": {
+"text": "44 m",
+"value": 44
+},
+"duration": {
+"text": "1 min",
+"value": 9
+},
+"end_location": {
+"lat": 28.5324763,
+"lng": 77.20466119999999
+},
+"html_instructions": "Turn <b>right</b><div style="font-size:0.9em">Destination will be on the left</div>",
+"maneuver": "turn-right",
+"polyline": {
+"points": "ywcmDybfvMFVFVHb@?@"
+},
+"start_location": {
+"lat": 28.5326088,
+"lng": 77.2050884
+},
+"travel_mode": "DRIVING"
+}
+],
+"traffic_speed_entry": [],
+"via_waypoint": []
+}
+],
+"overview_polyline": {
+"points": "o|cmDsvzuMa@bAB@d@\NN`BkD`BmDbD|Bt@`@|@n@NRdAeAtDgE?g@GO]c@}@k@cGyD{BwA_EkCoBsAiBuAsBqA{BaBwGgE{@c@]OuCu@oBo@a@YqDkCsE{CiFiDuEeDeHuEqGgEgBgBs@w@kBiCk@g@wGuEyDkCsJiGuCuAeCw@YMOMOQ?ODa@AWMQc@[_@Q_@IsGa@k@KOGuAuAyCaD{DcEmAkAyAaBkEgFo@w@KMEEEERWv@y@rA{AVWvBcD\g@|BeDzCaFf@aAx@kAFCPYnE_IzF{JbAeBnD_GhCeEhC{ExAoCtB}FhE_Ov@qCh@gBhAcElGuVv@_Dh@}Ch@eDz@_Gb@}Bp@yE`@uCn@gD^wAp@_C|A}FN{@HmAF_BDgEBw@Gc@@kCPkFDsBB}@@a@N?D?J?TMn@y@ZYlAs@`Bg@jAe@XUTSHCNYJa@Hu@Fw@Hk@\wAp@Pz@LVA`@Gh@QfBi@dAKZBJDz@r@TRh@b@zA`BbAhArAvAtCrC^^|@dAx@z@rAzAfAhArClCdBbBl@z@j@fAl@bBV~@T?Nn@Hd@"
+},
+"summary": "Nelson Mandela Marg",
+"warnings": [],
+"waypoint_order": []
+}
+],
+"status": "OK"
 }
